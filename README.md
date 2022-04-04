@@ -1,7 +1,9 @@
 # UCF-SST-CitySim-Dataset
 
-## Sample Data
+
 ![shortdemo](https://github.com/ozheng1993/UCF-SST-City-Sim-Dataset/blob/main/asset/short.gif)
+
+## Sample Data
 ### Intersection
 Google Drive:https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing
 
@@ -44,4 +46,12 @@ If you use ARCIS in your research , please use the following BibTeX entry.
         author={Zheng, Ou},
         year={2019},
         publisher={University of Central Florida}
+      }
+If you use CitySim Dataset in your research , please use the following BibTeX entry.
+
+      @article{,
+        title={},
+        author={},
+        year={},
+        publisher={}
       }
