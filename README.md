@@ -36,6 +36,9 @@ The system can be applied for drone videos that are collected from different typ
 ## Contributing
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
+# Next Step
+
+![droneCCTV](http://smartsafesst.com/gif/dronecctv.gif)
 
 ## Citation
 
