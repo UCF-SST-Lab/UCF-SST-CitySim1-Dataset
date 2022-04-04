@@ -38,10 +38,9 @@ Carla baseMap
 * userinterface
 
 ## Contributing
+
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
-# Next Step
-
 
 
 ## Citation
