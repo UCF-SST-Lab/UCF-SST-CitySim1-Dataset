@@ -48,9 +48,9 @@ Contributions to this repository are welcome. Examples of things you can contrib
 ## please email:M.Aty@ucf.edu for demo
 
 ## Citation
-@article{zheng2019developing,
-  title={Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms},
-  author={Zheng, Ou},
-  year={2019},
-  publisher={University of Central Florida}
-}
+      @article{zheng2019developing,
+        title={Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms},
+        author={Zheng, Ou},
+        year={2019},
+        publisher={University of Central Florida}
+      }
