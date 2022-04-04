@@ -24,7 +24,6 @@ https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sha
 ## Contributing
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
-## please email:M.Aty@ucf.edu for demo
 
 ## Citation
       @article{zheng2019developing,
