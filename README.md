@@ -38,7 +38,7 @@ Contributions to this repository are welcome. Examples of things you can contrib
 -TBD
 # Next Step
 
-![droneCCTV](http://smartsafesst.com/gif/dronecctv.gif)
+
 
 ## Citation
 
