@@ -8,8 +8,6 @@ https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sha
 
 
 
-
-## A-R-C-I-S
 ## UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)
 #### ARCIS Merge Mutil-Drone video Demo
 ![droneMerge](https://github.com/ozheng1993/A-R-C-I-S/blob/master/asset/droneMerge.gif)
