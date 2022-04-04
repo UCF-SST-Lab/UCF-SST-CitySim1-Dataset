@@ -14,10 +14,10 @@ https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sha
 ## UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)
 
 This system, particularly applicable to road traffic analysis, uses drone/Unmanned Aerial Vehicle (UAV) videos. Video data from drones/UAVs are stabilized first, and then be processed through the automatic detection and tracking system based on state-of-the-art algorithms. This system also further corrects vehicles' tracking areas based on vehicles' moving conditions and detection results to provide more accurate outputs, especially for turning vehicles. Based on the detection and tracking results, the systems can generate the following types of outputs using drone/UAV video data:
--Trajectory data of road users including vehicles and vulnerable road users
--Road users' classifications
--Traffic statistics (e.g., volume, speed)
--Safety indicators (e.g., Post-Encroachment Time (P.E.T.))
+- Trajectory data of road users including vehicles and vulnerable road users
+- Road users' classifications
+- Traffic statistics (e.g., volume, speed)
+- Safety indicators (e.g., Post-Encroachment Time (P.E.T.))
 The system can be applied for drone videos that are collected from different types of roadways, including freeway, arterial, and intersection.
 
 #### ARCIS Merge Mutil-Drone video Demo
