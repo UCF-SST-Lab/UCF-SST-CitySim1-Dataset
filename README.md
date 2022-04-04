@@ -9,15 +9,15 @@ Google Drive: https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYC
 
 Baidu Yun: https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde
 
-### On/Off ramp
+### On/Off Ramp
 Google Drive: https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing
 
 Baidu Yun: https://pan.baidu.com/s/1JqWgoZd2m8Zi66i-f_dO7Q?pwd=bgqf 
 
-### Trajectory example
+### Trajectory Example
 ![shortdemo](https://github.com/ozheng1993/UCF-SST-City-Sim-Dataset/blob/main/asset/short.gif)
 
-### Co-Simualation basemap
+### Co-Simualation Basemap
 Carla baseMap
 ![carla](https://github.com/ozheng1993/UCF-SST-City-Sim-Dataset/blob/main/asset/IMG_2008.PNG)
 
@@ -36,13 +36,13 @@ This system, particularly applicable to road traffic analysis, uses drone/Unmann
 
 The system can be applied for drone videos that are collected from different types of roadways, including freeway, arterial, and intersection.
 
-#### ARCIS Merge Mutil-Drone video Demo
+#### ARCIS Merge Mutil-Drone Video Demo
 ![droneMerge](https://github.com/ozheng1993/A-R-C-I-S/blob/master/asset/droneMerge.gif)
 
-#### videoStabilizer Demo
+#### Video Stabilizer Demo
 ![droneDemo](https://github.com/ozheng1993/videoStabilizer/blob/master/assets/demo.gif)
 
-## To do
+## TODO
 
 * userinterface
 
@@ -55,14 +55,6 @@ Contributions to this repository are welcome. Examples of things you can contrib
 
 ## Citation
 
-If you use ARCIS in your research , please use the following BibTeX entry.
-
-      @article{zheng2019developing,
-        title={Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms},
-        author={Zheng, Ou},
-        year={2019},
-        publisher={University of Central Florida}
-      }
 If you use CitySim Dataset in your research , please use the following BibTeX entry.
 
       @article{,
@@ -70,4 +62,13 @@ If you use CitySim Dataset in your research , please use the following BibTeX en
         author={},
         year={},
         publisher={}
+      }
+
+If you use ARCIS in your research , please use the following BibTeX entry.
+
+      @article{zheng2019developing,
+        title={Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms},
+        author={Zheng, Ou},
+        year={2019},
+        publisher={University of Central Florida}
       }
