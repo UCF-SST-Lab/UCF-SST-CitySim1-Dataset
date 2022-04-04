@@ -1,6 +1,7 @@
 # UCF-SST-City-Sim-Dataset
 
 ## Sample Data
+![shortdemo](https://github.com/ozheng1993/UCF-SST-City-Sim-Dataset/blob/main/asset/short.gif)
 ### Intersection
 https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing
 ### On/Off ramp
