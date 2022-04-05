@@ -22,9 +22,7 @@
 
 ### Co-Simualation Basemap
 Carla baseMap
-![carla](https://github.com/ozheng1993/UCF-SST-City-Sim-Dataset/blob/main/asset/IMG_2008.PNG)
-
-
+![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/intersectionBasemap.png)
 
 
 <hr> 
