@@ -32,10 +32,6 @@ Carla baseMap
 [UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)](https://github.com/ozheng1993/A-R-C-I-S)
 
 
-## TODO
-
-* userinterface
-
 ## Contributing
 
 Contributions to this repository are welcome. Examples of things you can contribute:
