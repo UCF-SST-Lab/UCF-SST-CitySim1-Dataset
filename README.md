@@ -16,7 +16,7 @@
 <hr> 
 
 
-### Co-Simualation Basemap
+### Co-Simulation Basemap
 Carla baseMap
 ![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/intersectionBasemap.png)
 
