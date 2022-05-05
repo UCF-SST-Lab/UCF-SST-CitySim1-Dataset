@@ -1,7 +1,7 @@
 # UCF-SST-CitySim-Dataset
 
 
-
+This dataset contains the drone data from seven intersections near the campus of the university of central florida. Each intersection has n minutes of recording, and the drone flight hight is 400 feets. The dataset contains the variables including frameNum, carID, boudingBoxXY, carcenterX/Y, boundingBoxLat/lon and carCenterLatlon.  
 
 ### Sample Data
 
