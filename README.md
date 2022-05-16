@@ -7,7 +7,7 @@ This dataset contains the drone data from seven intersections near the campus of
 
 #### University @ Alafaya Intersection ([Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde))
 
-The intersection of University Boulevard (9 lanes) and Alafaya Trail (8 lanes) is a large, signalized intersection at the entrance of the University of Central Florida in Orlando, Florida. Due to the large volume of serviced vehicles, the intersection contains numerous vehicle-to-vehicle traffic conflicts including merge conflicts and turning movement conflicts. Between 2011 – 2022, there was a total of 503 crashes in the intersection.
+The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) is a large, signalized intersection at the entrance of the University of Central Florida in Orlando, Florida. Due to the large volume of serviced vehicles, the intersection contains numerous vehicle-to-vehicle traffic conflicts including merge conflicts and turning movement conflicts. Between 2011 – 2022, there was a total of 503 crashes in the intersection.
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif" width="1080">
 
