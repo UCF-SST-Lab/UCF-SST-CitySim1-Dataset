@@ -5,48 +5,48 @@ This dataset contains the drone data from seven intersections near the campus of
 
 ### Sample Data
 
-#### University @ Alafaya Intersection ([Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde))
-:white_check_mark:  - 15 Mintues Trajectory
+#### University @ Alafaya Intersection (sample Data [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde))
+:white_check_mark:  60 Mintues Trajectory
 
-:white_check_mark:  - 15 Mintues Signal Timming
+:white_check_mark:  60 Mintues Signal Timming
 
-- [ ] Carla Base Map
+:white_check_mark:  Carla Base Map
 
-- [ ] Sumo Base Map
+:white_check_mark:  Sumo Base Map
 
 The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) is a large, signalized intersection at the entrance of the University of Central Florida in Orlando, Florida. Due to the large volume of serviced vehicles, the intersection contains numerous vehicle-to-vehicle traffic conflicts including merge conflicts and turning movement conflicts. Between 2011 – 2022, there was a total of 503 crashes in the intersection.
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif" width="1080">
 
-#### UCF Garage C ([Google Drive Link](https://drive.google.com/drive/folders/1m4eIq4dcbx5olBazagOXqvM6KBgXeCaT?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1M-MEC-DeHsBMW9OpltEwbQ?pwd=8eek))
+#### UCF Garage C (sample Data [Google Drive Link](https://drive.google.com/drive/folders/1m4eIq4dcbx5olBazagOXqvM6KBgXeCaT?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1M-MEC-DeHsBMW9OpltEwbQ?pwd=8eek))
 
-:white_check_mark:  - 5 Mintues Trajectory
+:white_check_mark: 15 Mintues Trajectory
 
-- [ ] 5 Mintues Signal Timming
+:white_check_mark: 15 Mintues Signal Timming
 
-- [ ] Carla Base Map
+:white_check_mark: Carla Base Map
 
-- [ ] Sumo Base Map
+:white_check_mark: Sumo Base Map
 
 This location contains two consecutive signalized intersections as well as their connecting road segment. The two intersections are positioned on both ends of a large student garage at the University of Central Florida in Orlando, Florida. Both intersections have permitted left-turn signal phases which lead to potential conflicts between southbound through traffic on the major road and left-turning vehicles heading for the garage. Furthermore, the connecting road segment contains the queue buildup for vehicles heading to the garage. Between 2011 – 2022, there was a total of 57 crashes in this location.
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/gargeC031622PM01-1_final.gif" width="1080">
 
-#### Non Signalized Intersection ([Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1rGTsQJwH-5LyT8I5GwtLCA?pwd=6ujc))
+#### Non Signalized Intersection (sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1rGTsQJwH-5LyT8I5GwtLCA?pwd=6ujc))
 
-:white_check_mark:  - 5 Mintues Trajectory
+:white_check_mark: 60 Mintues Trajectory
 
-- [ ] Carla Base Map
+:white_check_mark: Carla Base Map
 
-- [ ] Sumo Base Map
+:white_check_mark: Sumo Base Map
 
 The intersection of McCulloch Road and Seminole Avenue is a non-signalized intersection with a mid-block near the University of Central Florida in Orlando, Florida. Due to the intersection’s non-signalized nature and reliance on driver visibility for movement decision making, the intersection contains numerous turning movement potential conflicts. Conflicts between westbound through traffic on the major road and left-turning vehicles from the minor road as well as left-turning vehicles from the major road are frequently observed, especially when students rush from Seminole Avenue to the major road during school time. Between 2011 – 2022, there was a total of 42 crashes in the intersection.
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif" width="1080">
 
-#### Weaving segment ([Google Drive Link]() | [Baidu Yun Link]())
+#### Weaving segment (sample Data [Google Drive Link]() | [Baidu Yun Link]())
 
-:white_check_mark:  - 5 Mintues Trajectory
+:white_check_mark: 60 Mintues Trajectory
 
 - [ ] Carla Base Map
 
