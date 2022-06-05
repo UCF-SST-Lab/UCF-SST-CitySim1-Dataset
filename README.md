@@ -94,8 +94,9 @@ Contributions to this repository are welcome. Examples of things you can contrib
 
 ## Application for Access for Non-Commercial Use
 
-To apply for access to the dataset, please send us a request to this email: citysim.ucfsst@gmail.com 
-Please tell us about yourself, your position, your current (research) project and what exactly you would like to use the highD dataset for. Access will only be granted if all details are provided."
+To apply for access to the full dataset, please send us a request to this email: citysim.ucfsst@gmail.com 
+
+Please tell us about yourself, your position, your current (research) project and what exactly you would like to use this dataset for. 
 
 ## Citation
 
