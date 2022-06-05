@@ -92,6 +92,10 @@ The Unity simulator and SUMO simulation are connected through the TraCI portal p
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
 
+## Application for Access for Non-Commercial Use
+
+To apply for access to the dataset, please send us a request to this email: citysim.ucfsst@gmail.com 
+Please tell us about yourself, your position, your current (research) project and what exactly you would like to use the highD dataset for. Access will only be granted if all details are provided."
 
 ## Citation
 
