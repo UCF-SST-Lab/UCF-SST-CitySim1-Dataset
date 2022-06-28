@@ -8,7 +8,7 @@ This dataset contains the drone data from seven intersections near the campus of
 #### University @ Alafaya Intersection (sample Data [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde))
 :white_check_mark:  60 Mintues Trajectory
 
-:white_check_mark:  60 Mintues Signal Timming
+:white_check_mark:  60 Mintues Signal Timing
 
 :white_check_mark:  Carla Base Map
 
@@ -22,7 +22,7 @@ The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) i
 
 :white_check_mark: 15 Mintues Trajectory
 
-:white_check_mark: 15 Mintues Signal Timming
+:white_check_mark: 15 Mintues Signal Timing
 
 :white_check_mark: Carla Base Map
 
