@@ -44,7 +44,7 @@ The intersection of McCulloch Road and Seminole Avenue is a non-signalized inter
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif" width="1080">
 
-### Asin (Weaving Segment) (Sample Data)
+### Freeway A (Weaving Segment) (Sample Data TBA)
 
 :white_check_mark: 60 Mintues Trajectory
 
