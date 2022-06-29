@@ -1,7 +1,7 @@
 # UCF-SST-CitySim-Dataset
 
 
-The UCF SST CitySim dataset contains vehicle trajectory data collected from drone videos. The dataset contains variuos location types including signalized intersections, non-signalized intersections, freeway basic segments, and freeway weaving segments. For each detected vehicle, the dataset includes frame number, unique car ID, bouding box X/Y, car center X/Y, bounding box latitude/longitude, car center latitude/longitude, speed, and heading.
+The UCF SST CitySim dataset contains vehicle trajectory data collected from drone videos captured at 30 frames per second. The dataset contains variuos location types including signalized intersections, non-signalized intersections, freeway basic segments, and freeway weaving segments. For each detected vehicle, the dataset includes frame number, unique car ID, bouding box X/Y, car center X/Y, bounding box latitude/longitude, car center latitude/longitude, speed, and heading.
 
 ## Trajectory Data
 
