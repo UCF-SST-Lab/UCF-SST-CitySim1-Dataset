@@ -69,7 +69,7 @@ Speed Data       | Surrogate Safety Measures           |  10 Years of Crash Data
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
 
-see [publiction](locations/freewayA)  built on top of City-Sim and ARCIS.
+See [publiction](locations/freewayA)  built on top of City-Sim and ARCIS.
 
 ## Application for Access for Non-Commercial Use
 
