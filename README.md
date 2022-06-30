@@ -15,7 +15,7 @@ The UCF SST team has launched the project of creating an open-source drone video
 
 ### Freeway
 
-Freeway A (Weaving Segment)     |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tianfu031922AM02-5_final.gif)   
+[ Freeway A (Weaving Segment)](locations/freewayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tianfu031922AM02-5_final.gif)   
 :-------------------------:|:-------------------------:
 Freeway B (600m Highway) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/freewayB.png) 
 Freeway C (Highway Merging) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayC.png) 
