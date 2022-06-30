@@ -1,17 +1,24 @@
-### McCulloch @ Seminole (Non-Signalized Intersection) (Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1rGTsQJwH-5LyT8I5GwtLCA?pwd=6ujc))
+## From UCF-SST
 
-:white_check_mark: 60 Mintues Trajectory
+### [	Automated safety diagnosis based on unmanned aerial vehicle video and deep learning algorithm](https://journals.sagepub.com/doi/abs/10.1177/0361198120925808).
 
-:white_check_mark: Carla Base Map
+### [Developing a crash warning system for the bike lane area at intersections with connected vehicle technology](https://journals.sagepub.com/doi/abs/10.1177/0361198119840617).
 
-:white_check_mark: Sumo Base Map
 
-The intersection of McCulloch Road and Seminole Avenue is a non-signalized intersection with a mid-block near the University of Central Florida in Orlando, Florida. Due to the intersection’s non-signalized nature and reliance on driver visibility for movement decision making, the intersection contains numerous turning movement potential conflicts. Conflicts between westbound through traffic on the major road and left-turning vehicles from the minor road as well as left-turning vehicles from the major road are frequently observed, especially when students rush from Seminole Avenue to the major road during school time. Between 2011 – 2022, there was a total of 42 crashes in the intersection.
+### [Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms](https://stars.library.ucf.edu/etd/6885/).
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif" width="1080">
+### [Using Roadside Cameras to Analyze Traffic Conflicts at Intersections Based on Vehicle Key Points Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xjYVkuMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=xjYVkuMAAAAJ:ns9cj8rnVeAC)
 
-## Co-Simulation Base Map
 
-![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/intersection3A.PNG)
 
-![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/intersection3B.png)
+
+
+
+## By Other 
+### [Utilizing UAV video data for in-depth analysis of drivers’ crash risk at interchange merging areas](https://www.sciencedirect.com/science/article/pii/S0001457518309631).
+
+### [Examining traffic conflicts of up stream toll plaza area using vehicles’ trajectory data](https://www.sciencedirect.com/science/article/pii/S0001457518304342).
+
+### [Time-varying analysis of traffic conflicts at the upstream approach of toll plaza](https://www.sciencedirect.com/science/article/pii/S0001457519316537).
+
+### [Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza](https://www.sciencedirect.com/science/article/pii/S0001457519307584).
