@@ -22,7 +22,7 @@ Freeway A (Weaving Segment)     |  Freeway B (600m Highway)  | Freeway C (HighWa
 <hr> 
 
 
-## Example Use Cases
+## Other Features
 
 Digital Twin Base Map          |VR Driving Simulation           |  Co-Simulation Demo
 :-------------------------:|:-------------------------:|:-------------------------:
