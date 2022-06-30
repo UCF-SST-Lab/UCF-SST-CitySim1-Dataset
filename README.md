@@ -69,19 +69,23 @@ Speed Data       | Surrogate Safety Measures           |  10 Years of Crash Data
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
 
+see [publiction](locations/freewayA)  built on top of City-Sim and ARCIS.
+
 ## Application for Access for Non-Commercial Use
 
 To apply for access to the full dataset, please send us a request to this email: citysim.ucfsst@gmail.com 
 
 Please tell us about yourself, your position, your current (research) project and what exactly you would like to use this dataset for. 
 
+
 ## Citation
 
 If you use CitySim Dataset in your research , please use the following BibTeX entry.
-
+```BibTeX
       @article{,
         title={},
         author={},
         year={},
         publisher={}
       }
+```
