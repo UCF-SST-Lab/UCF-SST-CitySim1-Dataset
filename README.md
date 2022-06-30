@@ -30,8 +30,8 @@ Digital Twin Base Map          |VR Driving Simulation           |  Co-Simulation
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/bandicam%202022-05-05%2021-35-41-187.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/demo4.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/CoSim2.gif)
 Speed Data       | Surrogate Safety Measures           |  10 Years of Crash Data
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Speed.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/SSM2.png) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Crash.jpg)
-Autonomous Vehicle Simulation      | Sensor Simulation            |  
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/carlaDemo.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/sensor.gif) |  ![]()
+Autonomous Vehicle Simulation      | Sensor Simulation            |  Signal Timing Extraction
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/carlaDemo.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/sensor.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/phb.gif)
 
 ## Trajectory Data
 
