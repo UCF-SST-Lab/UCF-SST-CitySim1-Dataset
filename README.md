@@ -6,6 +6,8 @@ The UCF SST CitySim dataset contains vehicle trajectory data collected from dron
 ## Trajectory Data
 
 ### University @ Alafaya (Signalized Intersection) (Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde))
+
+[University @ Alafaya (Signalized Intersection)](locations/intersection1)
 :white_check_mark:  60 Mintues Trajectory
 
 :white_check_mark:  60 Mintues Signal Timing
