@@ -10,9 +10,12 @@ The UCF SST team has launched the project of creating an open-source drone video
 
 ## Location Example
 
-University @ Alafaya (Signalized Intersection)        |  UCF Garage C (Consecutive Signalized Intersections) | McCulloch @ Seminole (Non-Signalized Intersection)
+### Intersection
+[University @ Alafaya (Signalized Intersection)](locations/intersection1)  |  [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2) | [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/gargeC031622PM01-1_final.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif) 
+
+### FreeWay
 
 Freeway A (Weaving Segment)     |  Freeway B (600m highway)  | Freeway C (HighWay Merging) 
 :-------------------------:|:-------------------------:|:-------------------------:
