@@ -11,3 +11,10 @@
 
 <hr> 
 
+### Co-Simulation Base Map
+
+![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/weavingAtop.png)
+
+![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/weavingAside.png)
+
+
