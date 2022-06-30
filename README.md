@@ -11,7 +11,7 @@ The UCF SST CitySim dataset contains vehicle trajectory data collected from dron
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/gargeC031622PM01-1_final.gif" width="1080">
 
-### [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection2)
+### [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif" width="1080">
 
