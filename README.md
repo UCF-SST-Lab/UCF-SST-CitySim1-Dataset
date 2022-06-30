@@ -4,19 +4,7 @@
 The UCF SST CitySim dataset contains vehicle trajectory data collected from drone videos captured at 30 frames per second. The dataset contains variuos location types including signalized intersections, non-signalized intersections, freeway basic segments, and freeway weaving segments. For each detected vehicle, the dataset includes frame number, unique car ID, bouding box X/Y, car center X/Y, bounding box latitude/longitude, car center latitude/longitude, speed, and heading.
 
 ## Trajectory Data
-
-### University @ Alafaya (Signalized Intersection) (Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde))
-
-[University @ Alafaya (Signalized Intersection)](locations/intersection1)
-:white_check_mark:  60 Mintues Trajectory
-
-:white_check_mark:  60 Mintues Signal Timing
-
-:white_check_mark:  Carla Base Map
-
-:white_check_mark:  Sumo Base Map
-
-The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) is a large, signalized intersection at the entrance of the University of Central Florida in Orlando, Florida. Due to the large volume of serviced vehicles, the intersection contains numerous vehicle-to-vehicle traffic conflicts including merge conflicts and turning movement conflicts. Between 2011 – 2022, there was a total of 503 crashes in the intersection.
+### [University @ Alafaya (Signalized Intersection)](locations/intersection1)
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif" width="1080">
 
