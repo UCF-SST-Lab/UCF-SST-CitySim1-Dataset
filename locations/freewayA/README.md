@@ -1,20 +1,16 @@
-### Freeway A (Weaving Segment) (Sample Data TBA)
+## From UCF-SST
 
-:white_check_mark: 120 Mintues Trajectory
+### [	Automated safety diagnosis based on unmanned aerial vehicle video and deep learning algorithm](https://journals.sagepub.com/doi/abs/10.1177/0361198120925808).
 
-:white_check_mark:  Carla Base Map
-
-:white_check_mark:  Sumo Base Map
+### [Developing a crash warning system for the bike lane area at intersections with connected vehicle technology](https://journals.sagepub.com/doi/abs/10.1177/0361198119840617).
 
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tianfu031922AM02-5_final.gif" width="1080">
+### [Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms](https://stars.library.ucf.edu/etd/6885/).
 
-<hr> 
+## By Other 
 
-### Co-Simulation Base Map
+### [Examining traffic conflicts of up stream toll plaza area using vehicles’ trajectory data](https://www.sciencedirect.com/science/article/pii/S0001457518304342).
 
-![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/weavingAtop.png)
+### [Time-varying analysis of traffic conflicts at the upstream approach of toll plaza](https://www.sciencedirect.com/science/article/pii/S0001457519316537).
 
-![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/weavingAside.png)
-
-
+### [Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza](https://www.sciencedirect.com/science/article/pii/S0001457519307584).
