@@ -6,12 +6,10 @@ The UCF SST CitySim dataset contains vehicle trajectory data collected from dron
 
 ## Trajectory Data
 ### [University @ Alafaya (Signalized Intersection)](locations/intersection1)
-
 ### [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
-
 ### [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
+### [ Freeway A (Weaving Segment)](locations/freewayA)
 
-### Freeway A (Weaving Segment) (Sample Data TBA)
 
 <hr> 
 
