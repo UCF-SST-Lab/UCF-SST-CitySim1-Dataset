@@ -17,6 +17,9 @@
 ## By Other 
 ### [Utilizing UAV video data for in-depth analysis of drivers’ crash risk at interchange merging areas](https://www.sciencedirect.com/science/article/pii/S0001457518309631).
 
+### [Conflict Risk Analysis at Tunnel Toll Plaza Using Modified Time-to-collision Based on High-Resolution Trajectory Data](https://www.researchgate.net/publication/355200919_Conflict_Risk_Analysis_at_Tunnel_Toll_Plaza_Using_Modified_Time-to-collision_Based_on_High-Resolution_Trajectory_Data).
+
+
 ### [Examining traffic conflicts of up stream toll plaza area using vehicles’ trajectory data](https://www.sciencedirect.com/science/article/pii/S0001457518304342).
 
 ### [Time-varying analysis of traffic conflicts at the upstream approach of toll plaza](https://www.sciencedirect.com/science/article/pii/S0001457519316537).
