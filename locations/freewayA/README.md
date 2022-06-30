@@ -7,7 +7,7 @@
 
 ### [Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms](https://stars.library.ucf.edu/etd/6885/).
 
-### [Using Roadside Cameras to Analyze Traffic Conflicts at Intersections Based on Vehicle Key Points Detection]([https://stars.library.ucf.edu/etd/6885/](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xjYVkuMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=xjYVkuMAAAAJ:ns9cj8rnVeAC)).
+### [Using Roadside Cameras to Analyze Traffic Conflicts at Intersections Based on Vehicle Key Points Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xjYVkuMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=xjYVkuMAAAAJ:ns9cj8rnVeAC)
 
 
 
