@@ -21,33 +21,31 @@ Freeway A (Weaving Segment)     |  Freeway B (600m highway)  | Freeway C (HighWa
 
 <hr> 
 
-## Digital Twin Base Map
-
-[University @ Alafaya (Signalized Intersection)](locations/intersection1)  |  [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2) | [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/intersectionBasemap.png) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/bandicam%202022-05-05%2021-35-41-187.gif) |  ![]() 
-
-<hr> 
 
 ## Example Use Cases
 
-VR Driving Simulation           |  Co-Simulation Demo
-:-------------------------:|:-------------------------:
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/demo4.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/CoSim2.gif)
+Digital Twin Base Map          |VR Driving Simulation           |  Co-Simulation Demo
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/bandicam%202022-05-05%2021-35-41-187.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/demo4.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/CoSim2.gif)
 
-
-
-<hr> 
 
 ## Trajectory Data
 
-[University @ Alafaya (Signalized Intersection)](locations/intersection1)
+### [University @ Alafaya (Signalized Intersection)](locations/intersection1)
 
-[UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
+Sample Data:  [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde)
 
-[ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
+### [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
+
+Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1m4eIq4dcbx5olBazagOXqvM6KBgXeCaT?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1M-MEC-DeHsBMW9OpltEwbQ?pwd=8eek)
+
+### [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
+
+(Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1rGTsQJwH-5LyT8I5GwtLCA?pwd=6ujc))
 
 [ Freeway A (Weaving Segment)](locations/freewayA)
+
+Sample Data: [Google Drive Link]([https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing](https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing)) | 
 
 <hr> 
 
