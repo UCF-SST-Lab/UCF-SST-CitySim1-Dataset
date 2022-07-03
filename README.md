@@ -2,7 +2,7 @@
 
 The UCF SST team has launched the project of creating an open-source drone video dataset called the “UCF SST City-Sim dataset”. Aiming at becoming the leading drone trajectory and co-simulation dataset in terms of diversity, quality and quantity, the dataset currently includes a total 9 locations at USA and overseas, a total recording duration of over 20 hours, with trajectories captured in 10-20 cm precision. The locations cover a wide range of intersections and segments including signalized intersections, non-signalized intersection, mid-block control intersections, continuous intersections, urban expressway weaving segments, and freeway segments. Numerous vehicle conflict events have been observed in the data, and rich driving behaviors such as queueing, yielding, and merging have been recorded. Furthermore, to the best of our knowledge, our dataset is the first to provide signal timing, simulation base map, corresponding crash data compared to other drone video datasets.
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif" width="1080">
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainDemo.gif" width="1080">
 
 
 ## Location Example
