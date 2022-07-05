@@ -67,13 +67,13 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ###### Sample Data: TBA
 
-<hr> 
+
 
 ## Documentation
 
 See [Documentation](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/wiki/Documentation).
 
-<hr> 
+
 
 ## Data Extraction Tool
 [UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)](https://github.com/ozheng1993/A-R-C-I-S)
