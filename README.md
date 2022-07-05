@@ -17,7 +17,7 @@ The UCF SST team has launched the project of creating an open-source drone video
 
 ### Freeway
 
-[ Freeway A (Weaving Segment)](locations/freewayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tianfu031922AM02-5_final.gif)   
+[ Expressway A (Weaving Segment)](locations/freewayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tianfu031922AM02-5_final.gif)   
 :-------------------------:|:-------------------------:
 Freeway B (600m Highway) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/freewayB.png) 
 Freeway C (Highway Merging) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayC.png) 
@@ -53,7 +53,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ###### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1rGTsQJwH-5LyT8I5GwtLCA?pwd=6ujc))
 
-### [ Freeway A (Weaving Segment)](locations/freewayA)
+### [ Expressway A (Weaving Segment)](locations/freewayA)
 
 ###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing) | [Baidu Yun Link]( https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing))
 
