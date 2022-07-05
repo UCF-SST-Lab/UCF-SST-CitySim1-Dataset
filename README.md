@@ -75,7 +75,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ## Documentation
 
-The dataset documentation and file format description can be found [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/wiki/Documentation).
+The dataset documentation and file format description can be found [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/wiki/Home).
 
 
 
