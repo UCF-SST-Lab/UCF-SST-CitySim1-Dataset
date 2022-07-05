@@ -39,7 +39,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Speed.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/SSM2.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Crash.jpg) 
 
 
-## Trajectory Data
+## Sample Data
 
 ### [University @ Alafaya (Signalized Intersection)](locations/intersection1)
 
