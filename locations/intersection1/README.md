@@ -17,7 +17,7 @@ The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) i
 
 ### Carla Base Map（University @ Alafaya）
 
-University @ Alafaya 3D base map. There are 91 buildings, 0.8 km2 area, and 15.53 m above sea level.
+University @ Alafaya 3D base map. The map is build based on GIS data using RoadRunner. The drone video area is carefully modeled by reconstructing the road geometry, signal lights and buildings. The region of the vicinity is also modeled roughly.
 
 ![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/intersectionBasemap.png)
 
