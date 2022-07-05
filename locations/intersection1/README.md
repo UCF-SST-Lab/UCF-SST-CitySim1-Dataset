@@ -7,7 +7,7 @@
 
 :white_check_mark:  Sumo Base Map
 
-The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) is a large, signalized intersection at the entrance of the University of Central Florida in Orlando, Florida. Due to the large volume of serviced vehicles, the intersection contains numerous vehicle-to-vehicle traffic conflicts including merge conflicts and turning movement conflicts. Between 2011 – 2022, there was a total of 503 crashes in the intersection.
+The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) is a large, signalized intersection at the entrance of the University of Central Florida in Orlando, Florida. Due to the large volume of serviced vehicles, the intersection contains numerous vehicle-to-vehicle traffic conflicts including rea-end conflicts and turning movement conflicts. Between 2011 – 2022, there was a total of 503 crashes in the intersection.
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif" width="1080">
 
