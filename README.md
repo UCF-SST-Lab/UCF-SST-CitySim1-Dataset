@@ -9,11 +9,11 @@ The UCF SST team has launched the project of creating an open-source drone video
 
 ### Intersection
 
-[University @ Alafaya (Signalized Intersection)](locations/intersection1)  |  [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2) | [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/gargeC031622PM01-1_final.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif) 
-[University @ McCulloch (Signalized Intersection)](locations/intersection1)  |  | 
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/publix.gif) |  | 
+[University @ Alafaya (Signalized Intersection)](locations/intersection1)  |  [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
+:-------------------------:|:-------------------------:
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif)  
+[University @ McCulloch (Signalized Intersection)](locations/intersection1)  |  [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/publix.gif) |   ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/gargeC031622PM01-1_final.gif) 
 
 ### Freeway
 
@@ -25,15 +25,19 @@ Freeway C (Highway Merging) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim
 <hr> 
 
 
-## Other Features
-
-Digital Twin Base Map          |VR Driving Simulation           |  Co-Simulation Demo
+## Features
+Digital Twin Base Map      | Co-Simulation           |  Signal Timing Extraction  
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/bandicam%202022-05-05%2021-35-41-187.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/demo4.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/CoSim2.gif)
-Speed Data       | Surrogate Safety Measures           |  10 Years of Crash Data
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Speed.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/SSM2.png) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Crash.jpg)
-Autonomous Vehicle Simulation      | Sensor Simulation            |  Signal Timing Extraction
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/carlaDemo.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/sensor.gif) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/phb.gif)
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/bandicam%202022-05-05%2021-35-41-187.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/CoSim2.gif) |![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/phb.gif) 
+
+## Use Cases
+
+VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulation
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/demo4.gif) |![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/carlaDemo.gif)| ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/sensor.gif)
+ Speed Analysis   | Surrogate Safety Measures | Crash Analysis    
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Speed.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/SSM2.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Crash.jpg) 
+
 
 ## Trajectory Data
 
