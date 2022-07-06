@@ -92,7 +92,9 @@ See [publiction](paper)  built on top of City-Sim and ARCIS.
 
 ## Application for Access for Non-Commercial Use
 
-To apply for access to the full dataset, please send us a request to this email: citysim.ucfsst@gmail.com 
+To apply for access to the full dataset, please send us a request [form](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Data%20request%20form.docxe) to this email: citysim.ucfsst@gmail.com 
+
+
 
 Please tell us about yourself, your position, your current (research) project and what exactly you would like to use this dataset for. 
 
