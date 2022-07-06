@@ -60,7 +60,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ### [ Expressway A (Weaving Segment)](locations/freewayA)
 
-###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing) | [Baidu Yun Link]( https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing))
+###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1mF423Onhbgt7wVZdyxOqvA?pwd=r6f5 ))
 
 
 
