@@ -12,15 +12,15 @@ The UCF SST team has launched the project of creating an open-source drone video
 [University @ Alafaya (Signalized Intersection)](locations/intersection1)  |  [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
 :-------------------------:|:-------------------------:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.gif)  
-[University @ McCulloch (Signalized Intersection)](locations/intersection4)  |  [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
+[**University @ McCulloch (Signalized Intersection)**](locations/intersection4)  |  [**UCF Garage C (Consecutive Signalized Intersections)**](locations/intersection2)
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/publix.gif) |   ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/gargeC031622PM01-1_final.gif) 
 
 ### Segment
 
 [ Expressway A (Weaving Segment)](locations/freewayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tianfu031922AM02-5_final.gif)   
 :-------------------------:|:-------------------------:
-Freeway B (Basic Segment) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/freewayB.png) 
-Freeway C (Merge/Diverge Segment) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayC.png) 
+**Freeway B (Basic Segment)** |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/freewayB.png) 
+**Freeway C (Merge/Diverge Segment)** |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayC.png) 
 
 <hr> 
 
@@ -35,7 +35,7 @@ Digital Twin Base Map      | Co-Simulation           |  Signal Timing Extraction
 VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulation
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/demo4.gif) |![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/carlaDemo.gif)| ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/sensor.gif)
- Speed Analysis   | Surrogate Safety Measures | Crash Analysis    
+ **Speed Analysis**   | **Surrogate Safety Measures** | **Crash Analysis**    
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Speed.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/SSM2.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Crash.jpg) 
 
 
@@ -101,7 +101,7 @@ Please tell us about yourself, your position, your current (research) project an
 
 ## Citation
 
-If you use CitySim Dataset in your research , please use the following BibTeX entry.
+If you use CitySim Dataset in your research , please use the following BibTeX entry. (TBA)
 ```BibTeX
       @article{,
         title={},
