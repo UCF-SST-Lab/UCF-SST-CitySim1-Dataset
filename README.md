@@ -88,7 +88,7 @@ The dataset documentation and file format description can be found [here](https:
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
 
-See [publiction](paper)  built on top of CitySim and ARCIS.
+See [publication](paper)  built on top of CitySim and ARCIS.
 
 ## Request Access for Non-Commercial Use
 
