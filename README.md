@@ -47,7 +47,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ### [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
 
-###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1m4eIq4dcbx5olBazagOXqvM6KBgXeCaT?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1M-MEC-DeHsBMW9OpltEwbQ?pwd=8eek)
+###### Sample Data: TBA
 
 ### [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
 
