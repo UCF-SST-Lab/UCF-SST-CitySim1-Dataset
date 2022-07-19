@@ -45,18 +45,14 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ###### Sample Data:  [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde)
 
-### [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
 
-###### Sample Data: TBA
 
 ### [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
 
 ###### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1QAB3eIyR29KnWOMoSoHmyw?pwd=3ddf))
 
 
-### University @ McCulloch (Signalized Intersection)
 
-###### Sample Data: TBA
 
 ### [ Expressway A (Weaving Segment)](locations/freewayA)
 
@@ -73,6 +69,13 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ###### Sample Data: TBA
 
+### [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
+
+###### Sample Data: TBA
+
+### University @ McCulloch (Signalized Intersection)
+
+###### Sample Data: TBA
 
 ## Documentation
 
