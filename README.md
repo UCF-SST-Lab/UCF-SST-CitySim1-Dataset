@@ -2,7 +2,7 @@
 
 The UCF SST dataset is an open-source drone video trajectory and co-simulation dataset. The dataset aims to become the leading drone-video-based trajectory and co-simulation dataset in terms of diversity, quality and quantity. The dataset currently includes various locations in the USA and other countries, a total recording duration of over 20 hours, with trajectories captured in 10-20 cm precision. The locations cover a wide range of road types including signalized intersections, non-signalized intersection, mid-block control intersections, continuous intersections, urban expressway weaving segments, and freeway segments. Numerous vehicle conflict events have been observed in the dataset, and rich driving behaviors such as queueing, yielding, and merging have been recorded. Furthermore, to the best of our knowledge, our dataset is the first to provide 4 point rotation-aware vehicle bounding boxes, signal timing, and simulation base maps.
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainDemo.gif" width="1080">
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainDemo.gif" width="100%">
 
 
 ## Location Example
@@ -98,7 +98,7 @@ See [publication](paper)  built on top of CitySim and ARCIS.
 
 To apply for access to the full dataset, please send us a request [form](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Data_Request_Form.pdf) to this email: citysim.ucfsst@gmail.com 
 ## Project Team
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/projectTeam.png" width="1080">
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/projectTeam.png" width="100%">
 ## Citation
 
 If you use CitySim Dataset in your research , please use the following BibTeX entry. (TBA)
