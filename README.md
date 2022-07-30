@@ -67,7 +67,9 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ### Freeway C (Merge/Diverge Segment)
 
-###### Sample Data: TBA
+###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1BbOfB86a1Lzef8rTHWzd6a_jvruJIH2L?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1eTrq0OTsubOAi7v9kLzCEQ?pwd=o331))
+
+
 
 ### [UCF Garage C (Consecutive Signalized Intersections)](locations/intersection2)
 
