@@ -1,5 +1,4 @@
 ## From UCF-SST
-
 ### [	Automated safety diagnosis based on unmanned aerial vehicle video and deep learning algorithm](https://journals.sagepub.com/doi/abs/10.1177/0361198120925808).
 
 ### [Developing a crash warning system for the bike lane area at intersections with connected vehicle technology](https://journals.sagepub.com/doi/abs/10.1177/0361198119840617).
@@ -14,7 +13,7 @@
 
 
 
-## By Other 
+## From other research teams
 ### [Utilizing UAV video data for in-depth analysis of drivers’ crash risk at interchange merging areas](https://www.sciencedirect.com/science/article/pii/S0001457518309631).
 
 ### [Conflict Risk Analysis at Tunnel Toll Plaza Using Modified Time-to-collision Based on High-Resolution Trajectory Data](https://www.researchgate.net/publication/355200919_Conflict_Risk_Analysis_at_Tunnel_Toll_Plaza_Using_Modified_Time-to-collision_Based_on_High-Resolution_Trajectory_Data).
