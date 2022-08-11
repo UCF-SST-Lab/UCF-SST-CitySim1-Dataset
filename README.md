@@ -79,6 +79,11 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 ###### Sample Data: TBA
 
+
+## Request Access for Non-Commercial Use
+
+To apply for access to the full dataset, please send us a request [form](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Data_Request_Form.pdf) to this email: citysim.ucfsst@gmail.com 
+
 ## Documentation
 
 The dataset documentation and file format description can be found [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/wiki/Home).
@@ -96,9 +101,6 @@ Contributions to this repository are welcome. Examples of things you can contrib
 
 See [publication](paper)  built on top of CitySim and ARCIS.
 
-## Request Access for Non-Commercial Use
-
-To apply for access to the full dataset, please send us a request [form](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/Data_Request_Form.pdf) to this email: citysim.ucfsst@gmail.com 
 ## Project Team
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/projectTeam.png" width="100%">
