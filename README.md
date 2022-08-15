@@ -88,18 +88,8 @@ To apply for access to the full dataset, please send us a request [form](https:/
 
 The dataset documentation and file format description can be found [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/wiki/Home).
 
-
-
 ## Data Extraction Tool
 [UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)](https://github.com/ozheng1993/A-R-C-I-S)
-
-
-## Contributing
-
-Contributions to this repository are welcome. Examples of things you can contribute:
--TBD
-
-See [publication](paper)  built on top of CitySim and ARCIS.
 
 ## Project Team
 
@@ -116,3 +106,10 @@ If you use CitySim Dataset in your research , please use the following BibTeX en
         publisher={}
       }
 ```
+
+## Contributing
+
+Contributions to this repository are welcome. Examples of things you can contribute:
+-TBD
+
+See [publication](paper)  built on top of CitySim and ARCIS.
