@@ -100,10 +100,12 @@ The dataset documentation and file format description can be found [here](https:
 If you use CitySim Dataset in your research , please use the following BibTeX entry. (TBA)
 ```BibTeX
       @article{,
-        title={},
-        author={},
-        year={},
-        publisher={}
+        title = {CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety Oriented Research and Digital Twins},
+        author = {Zheng, Ou and Abdel-Aty, Mohamed and Yue, Lishengsa and Abdelraouf, Amr and Wang, Zijin and Mahmoud, Nada},
+        year = {2022},
+        publisher = {arXiv},
+        url = {https://arxiv.org/abs/2208.11036},
+        doi = {10.48550/ARXIV.2208.11036}
       }
 ```
 
