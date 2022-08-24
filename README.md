@@ -97,7 +97,7 @@ The dataset documentation and file format description can be found [here](https:
 
 ## Citation
 
-If you use CitySim Dataset in your research , please use the following BibTeX entry. (TBA)
+If you use CitySim Dataset in your research , please use the following BibTeX entry.
 ```BibTeX
       @article{,
         title = {CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety Oriented Research and Digital Twins},
