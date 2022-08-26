@@ -25,7 +25,7 @@
 
 ###### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1wVRBDhHkSRNDrqEEEwQft3qKWCbaBDxh?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1Dq64PNY6OS1WfABDhkKvMA?pwd=csja))
 
-### [Freeway C (Merge/Diverge Segment)]](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/freewayC)
+### [Freeway C (Merge/Diverge Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/freewayC)
 
 ###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1BbOfB86a1Lzef8rTHWzd6a_jvruJIH2L?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1eTrq0OTsubOAi7v9kLzCEQ?pwd=o331))
 
@@ -35,7 +35,7 @@
 
 ###### Sample Data: TBA
 
-### [University @ McCulloch (Signalized Intersection)]](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/University%40McCulloch)
+### [University @ McCulloch (Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/University%40McCulloch)
 
 ###### Sample Data: TBA
 
