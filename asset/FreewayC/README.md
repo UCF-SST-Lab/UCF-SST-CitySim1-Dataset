@@ -1,6 +1,6 @@
 ### Freeway C (Merge/Diverge Segment)
 
-###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1BbOfB86a1Lzef8rTHWzd6a_jvruJIH2L?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1eTrq0OTsubOAi7v9kLzCEQ?pwd=o331))
+##### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1BbOfB86a1Lzef8rTHWzd6a_jvruJIH2L?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1eTrq0OTsubOAi7v9kLzCEQ?pwd=o331))
 
 :white_check_mark:  60 Mintues Trajectory
 
