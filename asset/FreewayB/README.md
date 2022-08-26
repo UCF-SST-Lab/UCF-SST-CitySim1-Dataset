@@ -8,8 +8,10 @@
 
 :white_check_mark:  Sumo Base Map
 
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayB/image/freewayBARCIS.gif" width="1080">
+
 ## Digital Twin Base Map
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.gif" width="1080">
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayB/image/freewayBBasemap.png" width="1080">
 
 <hr> 
