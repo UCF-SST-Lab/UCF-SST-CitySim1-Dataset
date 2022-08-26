@@ -37,3 +37,9 @@ The Unity simulator and SUMO simulation are connected through the TraCI portal p
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/demo4.gif" width="1080">
 <hr>
 
+### Autonomous Vehicle Simulation 
+
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/carlaDemo.gif" width="1080">
+<hr>
+
+
