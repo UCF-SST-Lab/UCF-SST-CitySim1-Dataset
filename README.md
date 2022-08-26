@@ -71,9 +71,6 @@ If you use CitySim Dataset in your research , please use the following BibTeX en
 }
 ```
 
-## Contributing
-
-Contributions to this repository are welcome. Examples of things you can contribute:
--TBD
+## Related Publication
 
 See [publication](paper)  built on top of CitySim and ARCIS.
