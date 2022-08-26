@@ -19,8 +19,8 @@ The UCF SST dataset is an open-source drone video trajectory and co-simulation d
 
 [ Expressway A (Weaving Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/expresswayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tianfu031922AM02-5_final.jpg)   
 :-------------------------:|:-------------------------:
-[Freeway B (Basic Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/freewayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/freewayB.png) 
-[Freeway C (Merge/Diverge Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/freewayC) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayC.png) 
+[**Freeway B (Basic Segment)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/freewayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/freewayB.png) 
+[**Freeway C (Merge/Diverge Segment)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/freewayC) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayC.png) 
 
 <hr> 
 
