@@ -11,6 +11,6 @@
 
 <hr> 
 
-### Co-Simulation Base Map
+### Digital Twin Base Map
 
 ![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/ExpresswayA/image/expresswayABasemap.png)
