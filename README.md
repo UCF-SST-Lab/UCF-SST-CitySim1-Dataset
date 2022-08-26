@@ -9,7 +9,7 @@ The UCF SST dataset is an open-source drone video trajectory and co-simulation d
 
 ### Intersection
 
-[University @ Alafaya (Signalized Intersection)](locations/intersection1)  |  [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
+[University @ Alafaya (Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/University%40Alafaya)  |  [ McCulloch @ Seminole (Non-Signalized Intersection)](locations/intersection3)
 :-------------------------:|:-------------------------:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.jpg) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/tivoli03302022A01sstabaliened-1_final.jpg)  
 [**University @ McCulloch (Signalized Intersection)**](locations/intersection4)  |  [**UCF Garage C (Consecutive Signalized Intersections)**](locations/intersection2)
