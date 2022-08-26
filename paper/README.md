@@ -32,5 +32,7 @@
     >L Xing, J He, M Abdel-Aty, Q Cai, Y Li, O Zheng | Accident Analysis & Prevention 125, 174-187
 
 * [Time-varying analysis of traffic conflicts at the upstream approach of toll plaza](https://www.sciencedirect.com/science/article/pii/S0001457519316537).
-
+    >L Xing, J He, M Abdel-Aty, Y Wu, J Yuan | Accident Analysis & Prevention 141, 105539
 * [Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza](https://www.sciencedirect.com/science/article/pii/S0001457519307584).
+    >L Xing, J He, Y Li, Y Wu, J Yuan, X Gu | Accident Analysis & Prevention 135, 105343	21	2020
+
