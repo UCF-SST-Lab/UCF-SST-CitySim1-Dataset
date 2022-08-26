@@ -19,7 +19,7 @@ The intersection of University Boulevard (9 lanes) and Alafaya Trail (9 lanes) i
 
 University @ Alafaya 3D base map. The map is build based on GIS data using RoadRunner. The drone video area is carefully modeled by reconstructing the road geometry, signal lights and buildings. The region of the vicinity is also modeled roughly.
 
-![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/intersectionBasemap.png)
+![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/University@AlafayaBasemap.png)
 
 
 
