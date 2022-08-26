@@ -1,6 +1,7 @@
 ## From UCF-SST
 * [Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms](https://stars.library.ucf.edu/etd/6885/).
-    >O Zheng | Mater Thesis
+    >O Zheng* | Mater Thesis
+    
 * [	Automated safety diagnosis based on unmanned aerial vehicle video and deep learning algorithm](https://journals.sagepub.com/doi/abs/10.1177/0361198120925808)
 
     >Y Wu, M Abdel-Aty, O Zheng, Q Cai, S Zhang | Transportation research record 2674 (8), 350-359
@@ -10,12 +11,7 @@
     >Y Wu, M Abdel-Aty, O Zheng, Q Cai, L Yue | Transportation research record 2673 (4), 47-58
 
 * [Using closed-circuit television cameras to analyze traffic safety at intersections based on vehicle key points detection](https://www.sciencedirect.com/science/article/pii/S0001457522002299)
-    >M Abdel-Aty, Y Wu, O Zheng, J Yuan | Accident Analysis & Prevention 176, 106794
-
-
-
-
-
+    >M Abdel-Aty, Y Wu, O Zheng*, J Yuan | Accident Analysis & Prevention 176, 106794
 
 ## From other research teams
 
