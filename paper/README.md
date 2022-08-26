@@ -16,13 +16,14 @@
 ## From other research teams
 
 * [Addressing unobserved heterogeneity at road user level for the analysis of conflict risk at tunnel toll plaza: A correlated grouped random parameters logit approach with heterogeneity in means](https://arxiv.org/abs/2207.06576)
-    >Penglin Song, N.N. Sze, Ou Zheng, Mohamed Abdel-Aty
+    >Penglin Song, N.N. Sze, Ou Zheng, Mohamed Abdel-Aty | Analytic Methods in Accident Research
 
 
 * [Utilizing UAV video data for in-depth analysis of drivers’ crash risk at interchange merging areas](https://www.sciencedirect.com/science/article/pii/S0001457518309631).
      >X Gu, M Abdel-Aty, Q Xiang, Q Cai, J Yuan | Accident Analysis & Prevention 123, 159-169
 
 * [Conflict Risk Analysis at Tunnel Toll Plaza Using Modified Time-to-collision Based on High-Resolution Trajectory Data](https://www.researchgate.net/publication/355200919_Conflict_Risk_Analysis_at_Tunnel_Toll_Plaza_Using_Modified_Time-to-collision_Based_on_High-Resolution_Trajectory_Data).
+    > Penglin Song, N.N. Sze, Ou Zheng | Research Gate
 
 * [Examining traffic conflicts of up stream toll plaza area using vehicles’ trajectory data](https://www.sciencedirect.com/science/article/pii/S0001457518304342).
     >L Xing, J He, M Abdel-Aty, Q Cai, Y Li, O Zheng | Accident Analysis & Prevention 125, 174-187
