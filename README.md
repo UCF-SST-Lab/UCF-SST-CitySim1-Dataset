@@ -9,10 +9,10 @@ The UCF SST dataset is an open-source drone video trajectory and co-simulation d
 
 ### Intersection
 
-[University @ Alafaya (Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/University%40Alafaya)  |  [ McCulloch @ Seminole (Non-Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/McCulloch%40Seminole%20)
+[University @ Alafaya (Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/University%40Alafaya)  |  [ McCulloch @ Seminole (Non-Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/McCulloch%40Seminole%20)
 :-------------------------:|:-------------------------:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/uni%40gemini030322E01stab-1_final.jpg) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/tivoli03302022A01sstabaliened-1_final.jpg)  
-[**University @ McCulloch (Signalized Intersection)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/University%40McCulloch)  |  [**UCF Garage C (Consecutive Signalized Intersections)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/locations/GarageC)
+[**University @ McCulloch (Signalized Intersection)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/University%40McCulloch)  |  [**UCF Garage C (Consecutive Signalized Intersections)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/GarageC)
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/publix.jpg) |   ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/gargeC031622PM01-1_final.jpg) 
 
 ### Segment
