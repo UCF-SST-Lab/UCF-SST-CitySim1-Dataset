@@ -40,7 +40,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 
 ## Sample Data
-Download sample data  [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md)
+Download sample data  [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md).
 
 ## Full Dataset Access 
 
