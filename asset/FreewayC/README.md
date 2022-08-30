@@ -2,9 +2,9 @@
 
 ##### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1BbOfB86a1Lzef8rTHWzd6a_jvruJIH2L?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1eTrq0OTsubOAi7v9kLzCEQ?pwd=o331))
 
-:white_check_mark:  60 Mintues Trajectory
+:white_check_mark:  60 Minutes Trajectory
 
-:white_check_mark:  60 Mintues Signal Timing
+:white_check_mark:  60 Minutes Signal Timing
 
 :white_check_mark:  Carla Base Map
 

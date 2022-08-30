@@ -1,7 +1,7 @@
 ### McCulloch @ Seminole (Non-Signalized Intersection) 
 ##### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1rGTsQJwH-5LyT8I5GwtLCA?pwd=6ujc)
 
-:white_check_mark: 60 Mintues Trajectory
+:white_check_mark: 60 Minutes Trajectory
 
 :white_check_mark: Carla Base Map
 

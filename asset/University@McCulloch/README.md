@@ -1,6 +1,6 @@
 # University@McCulloch
 
-:white_check_mark: 60 Mintues Trajectory
+:white_check_mark: 60 Minutes Trajectory
 
 :white_check_mark: Carla Base Map
 

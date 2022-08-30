@@ -1,6 +1,6 @@
 ### Freeway A (Weaving Segment) (Sample Data TBA)
 
-:white_check_mark: 120 Mintues Trajectory
+:white_check_mark: 120 Minutes Trajectory
 
 :white_check_mark:  Carla Base Map
 
