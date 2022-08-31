@@ -1,9 +1,9 @@
 ### UCF Garage C (Consecutive Signalized Intersections)
 ##### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1m4eIq4dcbx5olBazagOXqvM6KBgXeCaT?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1M-MEC-DeHsBMW9OpltEwbQ?pwd=8eek)
 
-:white_check_mark: 15 Mintues Trajectory
+:white_check_mark: 15 Minutes Trajectory
 
-:white_check_mark: 15 Mintues Signal Timing
+:white_check_mark: 15 Minutes Signal Timing
 
 :white_check_mark: Carla Base Map
 
