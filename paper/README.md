@@ -1,6 +1,22 @@
 ## From UCF-SST
+
+* [CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety Oriented Research and Digital Twins](https://arxiv.org/abs/2208.11036).
+    >Ou Zheng, Mohamed Abdel-Aty, Lishengsa Yue, Amr Abdelraouf, Zijin Wang, Nada Mahmoud
+    
 * [Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms](https://stars.library.ucf.edu/etd/6885/).
     >O Zheng* | Mater Thesis
+    
+* Trajectory Prediction for Vehicle Conflict Identification at Intersections Using Sequence-to-Sequence Recurrent Neural Networks( under review)
+    
+    >Amr Abdelraouf, Mohamed Abdel-Aty, Zijin Wang, Ou Zheng
+    
+* A Review of the Applications of Computer Vision Technology in Surrogate-Safety-Measures-Based Traffic Safety Analysis(under review)
+
+    >Mohamed Abdel-Aty, Zijin Wang, Md Rezwanur Rahman Jahin,Ou Zheng,Amr Abdelraouf
+    
+* Modelling the Relationship Between Post Enchroachment Time and Signal Timings Using UAV Video data( under review)
+
+    >Zubayer Islam,Mohamed Abdel-Aty,Amrita Goswamy,Amr Abdelraouf,Ou Zheng 
     
 * [	Automated safety diagnosis based on unmanned aerial vehicle video and deep learning algorithm](https://journals.sagepub.com/doi/abs/10.1177/0361198120925808)
 
@@ -14,7 +30,9 @@
     >M Abdel-Aty, Y Wu, O Zheng*, J Yuan | Accident Analysis & Prevention 176, 106794
 
 ## From other research teams
-
+*  Enhanced Index of Risk Assessment of Lane-Change on Expressway Weaving Segments
+    > under review
+    
 * [Addressing unobserved heterogeneity at road user level for the analysis of conflict risk at tunnel toll plaza: A correlated grouped random parameters logit approach with heterogeneity in means](https://arxiv.org/abs/2207.06576)
     >Penglin Song, N.N. Sze, Ou Zheng, Mohamed Abdel-Aty | Analytic Methods in Accident Research
 
