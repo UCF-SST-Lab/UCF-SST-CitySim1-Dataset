@@ -6,15 +6,16 @@
 * [Developing a Traffic Safety Diagnostics System for Unmanned Aerial Vehicles UsingDeep Learning Algorithms](https://stars.library.ucf.edu/etd/6885/).
     >O Zheng* | Mater Thesis
     
-* Trajectory Prediction for Vehicle Conflict Identification at Intersections Using Sequence-to-Sequence Recurrent Neural Networks( under review)
+* [Trajectory Prediction for Vehicle Conflict Identification at Intersections Using Sequence-to-Sequence Recurrent Neural Networks](https://arxiv.org/abs/2210.08009)
     
     >Amr Abdelraouf, Mohamed Abdel-Aty, Zijin Wang, Ou Zheng
+
     
-* A Review of the Applications of Computer Vision Technology in Surrogate-Safety-Measures-Based Traffic Safety Analysis(under review)
+* A Review of the Applications of Computer Vision Technology in Surrogate-Safety-Measures-Based Traffic Safety Analysis (under review)
 
     >Mohamed Abdel-Aty, Zijin Wang, Md Rezwanur Rahman Jahin,Ou Zheng,Amr Abdelraouf
     
-* Modelling the Relationship Between Post Enchroachment Time and Signal Timings Using UAV Video data( under review)
+* [Modelling the Relationship Between Post Enchroachment Time and Signal Timings Using UAV Video data](https://arxiv.org/abs/2210.05044)
 
     >Zubayer Islam,Mohamed Abdel-Aty,Amrita Goswamy,Amr Abdelraouf,Ou Zheng 
     
