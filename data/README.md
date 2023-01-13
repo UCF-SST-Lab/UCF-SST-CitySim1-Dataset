@@ -33,7 +33,12 @@
 
 ### [UCF Garage C (Consecutive Signalized Intersections)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/GarageC)
 
-###### Sample Data: TBA
+
+
+###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1m4eIq4dcbx5olBazagOXqvM6KBgXeCaT?usp=share_link
+
+)
+
 
 ### [University @ McCulloch (Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/University%40McCulloch)
 
