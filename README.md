@@ -3,12 +3,15 @@
 The UCF SST dataset is an open-source drone video trajectory and co-simulation dataset. The dataset aims to become the leading drone-video-based trajectory and co-simulation dataset in terms of diversity, quality and quantity. The dataset currently includes various locations in the USA and other countries,and we are explanding this dataset over time, with trajectories captured in 10-20 cm precision. The locations cover a wide range of road types including signalized intersections, non-signalized intersection, mid-block control intersections, continuous intersections, urban expressway weaving segments, and freeway segments. Numerous vehicle conflict events have been observed in the dataset, and rich driving behaviors such as queueing, yielding, and merging have been recorded. Furthermore, to the best of our knowledge, our dataset is the first to provide 4 point rotation-aware vehicle bounding boxes, signal timing, and simulation base maps.
 
 
-[Sample Data link](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md)
-
-For download full data,please send us a request form ([Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) )to this email: citysim.ucfsst@gmail.com 
+#### 
 
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/MainDemo.gif" width="100%">
+[Sample Data]()  |  [ Full Data Access]()
+:-------------------------:|:-------------------------:
+[Click to Downlaod Sample Data](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md) | please send us a request form [Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) to this email: citysim.ucfsst@gmail.com 
+
+
+
 
 
 ## Location Example
@@ -53,12 +56,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Speed.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/SSM2.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Crash.jpg) 
 
 
-## Sample Data
-Download sample data  [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md).
 
-## Full Dataset Access 
-
-To apply for access to the full dataset for non-commercial use, please send us a request form [Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) to this email: citysim.ucfsst@gmail.com 
 
 ## Documentation
 
