@@ -43,7 +43,7 @@ The UCF SST dataset is an open-source drone video trajectory and co-simulation d
 
 
 ## Features
-Digital Twin Base Map      | Co-Simulation           |  Signal Timing Extraction  
+Digital Twin Base Map      | Sumo Carla Co-Simulation           |  Signal Timing Extraction  
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/bandicam%202022-05-05%2021-35-41-187.jpg) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/CoSim2.jpg) |![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/phb.jpg) 
 
