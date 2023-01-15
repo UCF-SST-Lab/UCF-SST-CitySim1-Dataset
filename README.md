@@ -8,7 +8,7 @@ The UCF SST dataset is an open-source drone video trajectory and co-simulation d
 
 [Sample Data]()  |  [ Full Data Access]()
 :-------------------------:|:-------------------------:
-[Click to Downlaod Sample Data](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md) | please send us a request form [Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) to this email: citysim.ucfsst@gmail.com 
+[Click to Downlaod Sample Data](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md) | Please send us a request form ([Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) ) to this email: citysim.ucfsst@gmail.com 
 
 
 
