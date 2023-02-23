@@ -10,7 +10,9 @@ The development of safety-oriented research ideas and applications requires fine
 [Click to Downlaod Sample Data](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md) | Please send us a request form ([Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) ) to this email: citysim.ucfsst@gmail.com 
 
 
+## Documentation
 
+The dataset documentation and file format description can be found [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/wiki/Home).
 
 
 ## Location Example
@@ -58,9 +60,6 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 
 
 
-## Documentation
-
-The dataset documentation and file format description can be found [here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/wiki/Home).
 
 ## Data Extraction Tool
 [UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)](https://github.com/ozheng1993/A-R-C-I-S)
