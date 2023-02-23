@@ -65,9 +65,16 @@ The dataset documentation and file format description can be found [here](https:
 ## Data Extraction Tool
 [UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)](https://github.com/ozheng1993/A-R-C-I-S)
 
-## Project Team
+## Active Project Team
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/projectTeam.png" width="100%">
+
+## Pervious Contributor
+
+[Lishengsa Yue](https://www.researchgate.net/profile/Lishengsa-Yue-2) |
+[Amr Abdelraouf](https://scholar.google.ca/citations?user=kWR3NRUAAAAJ&hl=zh-CN) |
+[Nada Mahmoud](https://scholar.google.com/citations?user=QH_gttgAAAAJ&hl=en)
+
 
 ## Citation
 
