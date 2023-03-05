@@ -71,7 +71,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 ## Pervious Contributor
 
 [Lishengsa Yue](https://www.researchgate.net/profile/Lishengsa-Yue-2) |
-[Amr Abdelraouf](https://scholar.google.ca/citations?user=kWR3NRUAAAAJ&hl=zh-CN) |
+[Amr Abdelraouf](https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en) |
 [Nada Mahmoud](https://scholar.google.com/citations?user=QH_gttgAAAAJ&hl=en)
 
 
