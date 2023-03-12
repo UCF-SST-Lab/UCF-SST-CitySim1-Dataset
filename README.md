@@ -78,14 +78,18 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 ## Citation
 
 If you use CitySim Dataset in your research , please use the following BibTeX entry.
+
 ```BibTeX
-@misc{,
-  doi = {,
-  url = {},
-  author = {Zheng, Ou and Abdel-Aty, Mohamed and Wang, Zijing and Ding, Shengxuan and Wang,DongDong },  
-  title = {AVOID: Autonomous Vehicle Operation  Incident  Dataset },
+@misc{https://doi.org/10.48550/arxiv.2208.11036,
+  doi = {10.48550/ARXIV.2208.11036},
+  url = {https://arxiv.org/abs/2208.11036},
+  author = {Zheng, Ou and Abdel-Aty, Mohamed and Yue, Lishengsa and Abdelraouf, Amr and Wang, Zijin and Mahmoud, Nada},  
+  title = {CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety Oriented Research and Digital Twins},
   publisher = {arXiv},
-  year = {2023}
+  year = {2022}
 }
 ```
 
+## Related Publication
+
+See [publication](paper)  built on top of CitySim and ARCIS.
