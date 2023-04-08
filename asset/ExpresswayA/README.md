@@ -8,10 +8,9 @@
 :white_check_mark:  Sumo Base Map
 
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/ExpresswayA/image/expresswayAARCIS.gif" width="1080">
 
 <hr> 
 
 ### Digital Twin Base Map
 
-![carla](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/ExpresswayA/image/expresswayABasemap.png)
+
