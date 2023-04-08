@@ -37,7 +37,6 @@ The dataset documentation and file format description can be found [here](https:
 
 [ Expressway A (Weaving Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/expresswayA.png)   
 :-------------------------:|:-------------------------:
-[ Expressway A (Weaving Segment)-Rainning (TBA)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/expresswayARain.png)   
 [**Freeway B (Basic Segment)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayB.png) 
 [**Freeway C (Merge/Diverge Segment)**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayC) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayC.png) 
 
