@@ -1,6 +1,6 @@
 ### Freeway B (Basic Segment)
 
-##### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1wVRBDhHkSRNDrqEEEwQft3qKWCbaBDxh?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1Dq64PNY6OS1WfABDhkKvMA?pwd=csja))
+##### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1wVRBDhHkSRNDrqEEEwQft3qKWCbaBDxh?usp=sharing) |
 
 :white_check_mark:  60 Minutes Trajectory
 
