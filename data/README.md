@@ -3,32 +3,28 @@
 ##### Base map is not included in the sample data
 ### [University @ Alafaya (Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/University%40Alafaya)
 
-###### Sample Data:  [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1M6M7RlDwBUC-VoYVpcwpBQ?pwd=tfde)
-
-
+###### Sample Data:  [Google Drive Link](https://drive.google.com/drive/folders/1fHzmDxPHHofIBzQpx75Aol9pYCMX9gx7?usp=sharing) 
 
 ### [ McCulloch @ Seminole (Non-Signalized Intersection)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/McCulloch%40Seminole%20)
 
-###### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1QAB3eIyR29KnWOMoSoHmyw?pwd=3ddf))
-
+###### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1DOPb_EqEwqPwFKlqL9XWoVZrJOqjsntE?usp=sharing) 
 
 
 
 ### [ Expressway A (Weaving Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayA)
 
-###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing) | [Baidu Yun Link]( https://pan.baidu.com/s/1mF423Onhbgt7wVZdyxOqvA?pwd=r6f5 ))
+###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1t0RNw0I3k06rPchSvgkQvzKU_2P-mbhV?usp=sharing) 
 
 
 
 ### [Freeway B (Basic Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayB)
 
 
-###### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1wVRBDhHkSRNDrqEEEwQft3qKWCbaBDxh?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1Dq64PNY6OS1WfABDhkKvMA?pwd=csja))
+###### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1wVRBDhHkSRNDrqEEEwQft3qKWCbaBDxh?usp=sharing) 
 
 ### [Freeway C (Merge/Diverge Segment)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayC)
 
-###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1BbOfB86a1Lzef8rTHWzd6a_jvruJIH2L?usp=sharing) | [Baidu Yun Link](https://pan.baidu.com/s/1eTrq0OTsubOAi7v9kLzCEQ?pwd=o331))
-
+###### Sample Data: [Google Drive Link](https://drive.google.com/drive/folders/1BbOfB86a1Lzef8rTHWzd6a_jvruJIH2L?usp=sharing) 
 
 
 ### [UCF Garage C (Consecutive Signalized Intersections)](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/GarageC)
