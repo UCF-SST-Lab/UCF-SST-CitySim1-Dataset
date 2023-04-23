@@ -5,5 +5,3 @@
 :white_check_mark:  Carla Base Map
 
 :white_check_mark:  Sumo Base Map
-
-<hr> 
