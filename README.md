@@ -5,9 +5,9 @@ The development of safety-oriented research ideas and applications requires fine
 #### 
 
 
-[Sample Data]()  |  [ Full Data Access]()
-:-------------------------:|:-------------------------:
-[Click to Downlaod Sample Data](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/data/README.md) | Please send us a request form ([Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) ) to this email: citysim.ucfsst@gmail.com 
+ [ Full Data Access]()
+:-------------------------:
+Please send us a request form ([Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) ) to this email: citysim.ucfsst@gmail.com 
 
 
 ## Documentation
@@ -24,7 +24,7 @@ The dataset documentation and file format description can be found [here](https:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/uni%40gemini030322E01stab-1_final.jpg) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/tivoli03302022A01sstabaliened-1_final.jpg)  
 [**Intersection C <br /> <sub><sup>Signalized Intersection-USA</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/University%40McCulloch)  |  [**Intersection D <br /><sub><sup>Consecutive Signalized Intersections-USA</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/GarageC)
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/publix.jpg) |   ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/gargeC031622PM01-1_final.jpg) 
-[**Intersection E <br /> <sub><sup>Signalized Intersection-USA</sup></sub>TBD**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/GarageCV2) |  [**Intersection F <br /> <sub><sup>Signalized Intersection-USA</sup></sub> TBD**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/IntersectionF)
+[**Intersection E <br /> <sub><sup>Signalized Intersection-USA</sup></sub>TBD**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/GarageCV2) |  [**Intersection F <br /> <sub><sup>Non-Signalized Intersection-USA</sup></sub> TBD**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/IntersectionF)
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/IntersectionEBaseMap.png) |   ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/intersectionFBaseMap.png) 
 
 
