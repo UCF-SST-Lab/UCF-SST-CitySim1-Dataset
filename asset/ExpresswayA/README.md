@@ -6,10 +6,3 @@
 
 :white_check_mark:  Sumo Base Map
 
-
-
-<hr> 
-
-### Digital Twin Base Map
-
-
