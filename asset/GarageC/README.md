@@ -1,5 +1,4 @@
 ### UCF Garage C (Consecutive Signalized Intersections)
-##### Sample Data [Google Drive Link](https://drive.google.com/drive/folders/1m4eIq4dcbx5olBazagOXqvM6KBgXeCaT?usp=share_link)
 
 :white_check_mark: 15 Minutes Trajectory
 
