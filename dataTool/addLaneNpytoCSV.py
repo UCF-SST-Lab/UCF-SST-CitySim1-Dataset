@@ -8,8 +8,8 @@ import csv
 import numpy as np
 import cv2
 #====================================user input===================
-inputName='./fix_tianfu031922AM02-3withGPS.csv'
-zones=np.load("./tianfu031922AM02-1zones.npy",allow_pickle=True)
+inputName='./ExpresswayA.csv'
+zones=np.load("./ExpresswayALane.npy",allow_pickle=True)
 #====================================user input===================
 outputNme=inputName[:-4]+"withLane.csv"
 df = pd.read_csv(inputName)
