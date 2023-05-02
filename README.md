@@ -36,7 +36,7 @@ The dataset documentation and file format description can be found [here](https:
 
 ### Roundabout
 
-[Roundabout A <br /><sub><sup>One lane roundabout-USA</sup></sub>](https://drive.google.com/drive/folders/1XW10wnNg0_gfsRHCZcVWECkDE6OgDEpV?usp=share_link)  |  [ Roundabout B <br /> <sub><sup>Two lane roundabout-USA</sup></sub> TBD]()
+[Roundabout A <br /><sub><sup>One lane roundabout-USA</sup></sub>](https://drive.google.com/drive/folders/1XW10wnNg0_gfsRHCZcVWECkDE6OgDEpV?usp=share_link)  |  [ Roundabout B <br /> <sub><sup>Two lane roundabout-USA</sup></sub> TBA]()
 :-------------------------:|:-------------------------:
 ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/RoundAboutA/roundaboutA.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/RoundaboutB/roundaboutB.png)  
 
@@ -44,11 +44,11 @@ The dataset documentation and file format description can be found [here](https:
 
 ### Segment
 
-[ Expressway A (Weaving Segment)<br /> <sub><sup>Expressway-Asia</sup></sub>](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/expresswayA.png)   
+[ Expressway A <br />Weaving Segment<br />Asia<br/> <sub><sup>In associate with <br /> Southwest Jiaotong University<br />  Data Science and Traffic Safety Lab</sup></sub> ](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/expresswayA.png)   
 :-------------------------:|:-------------------------:
-[**Freeway B (Basic Segment) <br /> <sub><sup>Highway-Asia</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayB.png) 
-[**Freeway C (Merge/Diverge Segment)<br /> <sub><sup>Highway-Asia</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayC) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayC.png) 
-[**Freeway D (Merge/Diverge Segment) <br /> <sub><sup>Highway-Asia</sup></sub> TBD**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayD) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayD.png) 
+[**Freeway B <br />Basic Segment<br /> Asia <br /> <sub><sup>Highway-Asia</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayB.png) 
+[**Freeway C <br />Merge/Diverge Segment<br /> Asia<br /> <sub><sup>Highway-Asia</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayC) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayC.png) 
+[**Freeway D (TBA)<br /> Merge/Diverge Segment<br /> Asia <br /> <sub><sup>In associate with <br /> Hong Kong PolyU<br />  Dr.Tony Sez</sup></sub> **](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayD) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayD.png) 
 
 
 <hr> 
