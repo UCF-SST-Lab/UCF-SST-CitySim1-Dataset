@@ -16,8 +16,8 @@ The data are not publicly available due to privacy.<br /> Please send us a reque
 
 ## What's New
 
-* Intersection E
-* Roundabout B
+* Intersection E Trajectory/Carla Basemap/ Sumo Basemap uploaded
+* Roundabout B Trajectory/Carla Basemap/ Sumo Basemap uploaded
 
 ## Documentation
 
