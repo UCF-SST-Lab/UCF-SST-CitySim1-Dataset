@@ -1,10 +1,14 @@
 ### Freeway D (Basic Segment)
 
-:white_check_mark:  60 Minutes Trajectory
 
-:white_check_mark:  Carla Base Map
+:white_check_mark:  70 Minutes Trajectory
 
-:white_check_mark:  Sumo Base Map
+:white_check_mark:  FBX Base Map
+
+:white_check_mark:  Scnner Base Map
+
+
+Freeway D is the segment of Tolo Highway in Hong Kong, near Tolo Harbour Park. This segment includes merging and diverging sections. And drone video stems last for about 70 mins total
 
 
 #### Collaborator:Dr.Tony Sze
