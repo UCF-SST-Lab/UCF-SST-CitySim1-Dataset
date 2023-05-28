@@ -80,11 +80,24 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 ## Data Extraction Tool
 [UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)](https://github.com/ozheng1993/A-R-C-I-S)
 
-## Active Project Team
+##  Project Team
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/projectTeam.png" width="100%">
 
-## Pervious Contributor
+### Lab Leader
+
+[Dr. Mohamed Abdel-Aty](https://scholar.google.com/citations?user=Cp4F4JkAAAAJ&hl=en)
+
+
+### Active Contributor
+
+[Ou Zheng](https://scholar.google.com/citations?user=605WeG4AAAAJ&hl=en) |
+[Zijin Wang](https://scholar.google.com/citations?user=tNEu1VoAAAAJ&hl=zh-CN) |
+[Dongdong Wang](https://scholar.google.com/citations?user=GQxOz5QAAAAJ&hl=en) |
+[Jorge Ugan](https://scholar.google.com/citations?user=Did3g88AAAAJ&hl=en) |
+[Shengxuan Ding](https://scholar.google.com/citations?user=OZRGN3gAAAAJ&hl=en) 
+
+### Pervious Contributor
 
 [Lishengsa Yue](https://www.researchgate.net/profile/Lishengsa-Yue-2) |
 [Amr Abdelraouf](https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en) |
