@@ -94,8 +94,8 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 [Ou Zheng](https://scholar.google.com/citations?user=605WeG4AAAAJ&hl=en) |
 [Zijin Wang](https://scholar.google.com/citations?user=tNEu1VoAAAAJ&hl=zh-CN) |
 [Dongdong Wang](https://scholar.google.com/citations?user=GQxOz5QAAAAJ&hl=en) |
+[Shengxuan Ding](https://scholar.google.com/citations?user=OZRGN3gAAAAJ&hl=en) |
 [Jorge Ugan](https://scholar.google.com/citations?user=Did3g88AAAAJ&hl=en) |
-[Shengxuan Ding](https://scholar.google.com/citations?user=OZRGN3gAAAAJ&hl=en) 
 
 ### Pervious Contributor
 
