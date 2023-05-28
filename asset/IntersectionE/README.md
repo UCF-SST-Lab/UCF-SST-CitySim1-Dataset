@@ -17,12 +17,12 @@ This location contains two consecutive signalized intersections as well as their
 
 ## Co-Simulation Base Map
 
-### Carla Base Map（UCF Garage C）
+### Carla Base Map
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/GarageC/image/GarageCBaseMap.gif" width="1080">
 <hr> 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/GarageC/image/GarageCBaseMap.png" width="1080">
 
-## signale timming
+## Signal Timming
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/IntersectionE/image/IntersectionE-Siganl-01.png" width="1080">
