@@ -10,7 +10,7 @@
 
 Freeway D is the segment of Tolo Highway in Hong Kong, near Tolo Harbour Park. This segment includes merging and diverging sections. And drone video stems last for about 70 mins total
 
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/University%40Alafaya/image/University%40AlafayaARCIS.gif" width="1080">
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayD/image/FreewayD.gif" width="1080">
 
 
 #### Collaborator:Dr.Tony Sze
