@@ -1,4 +1,4 @@
-### Freeway B (Basic Segment)
+### Roundabout A (one lane Rounabout)
 
 :white_check_mark:  60 Minutes Trajectory
 
