@@ -42,7 +42,7 @@ The dataset documentation and file format description can be found [here](https:
 
 [Roundabout A <br /><sub><sup>One lane roundabout-USA</sup></sub>](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/RoundAboutA)  |  [ Roundabout B <br /> <sub><sup>Two lane roundabout-USA</sup></sub>](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/RoundaboutB)
 :-------------------------:|:-------------------------:
-![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/roundaboutA.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/RoundaboutB.png)  
+![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/roundaboutA.png) | ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/roundaboutB.png)  
 
 
 
