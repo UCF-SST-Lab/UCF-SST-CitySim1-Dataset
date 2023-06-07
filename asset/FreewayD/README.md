@@ -3,12 +3,16 @@
 
 :white_check_mark:  70 Minutes Trajectory
 
-:white_check_mark:  FBX Base Map
+:white_check_mark:  Carla Base Map
 
 :white_check_mark:  Scanner Base Map
 
+:white_check_mark:  Sumo Base Map
 
-Freeway D is the segment of Tolo Highway in Hong Kong, near Tolo Harbour Park. This segment includes merging and diverging sections. And drone video stems last for about 70 mins total
+
+
+
+Freeway D is the segment of Tolo Highway in Hong Kong, near Tolo Harbour Park. This site is a dual carriageway with five traffic lanes for each direction, including merging and diverging sections. According to A.A.D.T. data of Hong Kong, Tolo Highway is one of the main expressways in Hong Kong, and has an average of more than 70,000 vehicle traffic per day for each direction. This segment also contains numerous vehicle-to-vehicle traffic conflicts, including rear-end conflicts and turning movement conflicts. Between 2018 – 2020, there was a total of 40 crashes in the segment and about a quarter of the accidents resulted in serious injuries.
 
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayD/image/FreewayD.gif" width="1080">
 
