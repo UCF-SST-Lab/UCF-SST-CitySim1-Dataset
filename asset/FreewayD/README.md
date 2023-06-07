@@ -20,7 +20,7 @@ Freeway D is the segment of Tolo Highway in Hong Kong, near Tolo Harbour Park. T
 ### Example Use Cases
 
 #### Scanner
-
+<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayD/image/demogif.gif" width="1080">
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayD/image/8.png" width="1080">
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayD/image/3.png" width="1080">
 <img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/FreewayD/image/4.png" width="1080">
