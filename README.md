@@ -16,8 +16,8 @@ The data are not publicly available due to privacy.<br /> Please send us a reque
 
 ## What's New
 
-* Intersection E Trajectory/Carla Basemap/ Sumo Basemap uploaded
-* Roundabout B Trajectory/Carla Basemap/ Sumo Basemap uploaded
+* Expressway A-Rain Trajectory/Carla Basemap/ Sumo Basemap uploaded
+
 
 ## Documentation
 
@@ -50,7 +50,7 @@ The dataset documentation and file format description can be found [here](https:
 
 [ Expressway A  <sub><sup><br />Weaving Segment<br />Asia<br/>In associate with <br /> Southwest Jiaotong University<br />  Data Science and Traffic Safety Lab</sup></sub> ](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/expresswayA.png)   
 :-------------------------:|:-------------------------:
-[**Expressway A-Rain(TBA) <sub><sup><br />Weaving Segment<br />Asia<br/>In associate with <br /> Southwest Jiaotong University<br />  Data Science and Traffic Safety Lab</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayARain)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/ExpresswayARain.png)   
+[**Expressway A-Rain <sub><sup><br />Weaving Segment<br />Asia<br/>In associate with <br /> Southwest Jiaotong University<br />  Data Science and Traffic Safety Lab</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayARain)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/ExpresswayARain.png)   
 [**Expressway B (TBA) <sub><sup><br />Weaving Segment<br /> Asia <br />In associate with<br /> Southeast University<br/> Renteng Yuan/Dr.QiaoJun Xiang</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/ExpresswayB.png) 
 [**Freeway B  <sub><sup><br />Basic Segment<br /> Asia <br />Highway-Asia</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayB.png) 
 [**Freeway C <sub><sup><br />Merge/Diverge Segment<br /> Asia<br /> Highway-Asia</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayC) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayC.png) 
