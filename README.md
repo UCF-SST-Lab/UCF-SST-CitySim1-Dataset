@@ -115,6 +115,11 @@ If you use CitySim Dataset in your research , please use the following BibTeX en
   publisher = {arXiv},
   year = {2022}
 }
+@article{zhengdevelopment,
+  title={DEVELOPMENT, VALIDATION, AND INTEGRATION OF AI-DRIVEN COMPUTER VISION AND DIGITAL-TWIN SYSTEMS FOR TRAFFIC SAFETY DIAGNOSTICS},
+  author={ZHENG, OU}
+}
+
 ```
 
 ## Related Publication
