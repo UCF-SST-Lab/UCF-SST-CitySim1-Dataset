@@ -122,6 +122,12 @@ If you use CitySim Dataset in your research , please use the following BibTeX en
 
 ```
 
+## Projects
+
+Projects in the community that use CitySim:
+
++ [LimSim](https://github.com/PJLab-ADG/LimSim), LimSim is a Long-term Interactive Multi-scenario traffic Simulator, which aims to provide a continuous simulation capability under the complex urban road network.
+
 ## Related Publication
 
 See [publication](paper)  built on top of CitySim and ARCIS.
