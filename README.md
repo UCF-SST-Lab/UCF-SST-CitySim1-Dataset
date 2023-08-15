@@ -87,7 +87,7 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 ### Active Contributor
 
 [Ou Zheng](https://scholar.google.com/citations?user=605WeG4AAAAJ&hl=en) |
-[Zijin Wang](https://scholar.google.com/citations?user=tNEu1VoAAAAJ&hl=zh-CN) |
+[Zijin Wang](https://scholar.google.com/citations?user=tNEu1VoAAAAJ&hl=zh-CN) 
 
 
 ### Pervious Contributor
