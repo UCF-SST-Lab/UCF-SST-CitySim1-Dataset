@@ -49,17 +49,11 @@ The dataset documentation and file format description can be found [here](https:
 
 ### Segment
 
-[ Expressway A  <sub><sup><br />Weaving Segment<br />USA<br/> ](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayA)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/expresswayA.png)   
-:-------------------------:|:-------------------------:
-[**Expressway A-Rain <sub><sup><br />Weaving Segment<br />USA**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayARain)    |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/ExpresswayARain.png)   
 [**Expressway B (TBA) <sub><sup><br />Weaving Segment<br /> Asia <br />In associate with<br /> Southeast University<br/> Renteng Yuan/Dr.QiaoJun Xiang</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/ExpresswayB.png) 
-[**Freeway B  <sub><sup><br />Basic Segment<br /> USA <br />Highway</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayB.png) 
-[**Freeway C <sub><sup><br />Merge/Diverge Segment<br /> USA<br /> Highway</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayC) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayC.png) 
+:-------------------------:|:-------------------------:
 [**Freeway D (TBA) <sub><sup><br /> Merge/Diverge Segment<br /> Asia <br />In associate with <br /> Hong Kong PolyU<br />  Dr.Tony Sez</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/FreewayD) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/freewayD.png) 
 
-
 <hr> 
-
 
 ## Features
 Digital Twin Base Map      | Sumo Carla Co-Simulation           |  Signal Timing Extraction  
