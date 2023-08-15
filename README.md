@@ -16,7 +16,6 @@ The data are not publicly available due to privacy.<br /> Please send us a reque
 
 ## What's New
 
-* Expressway A-Rain Trajectory/Carla Basemap/ Sumo Basemap uploaded
 * [LimSim](https://github.com/PJLab-ADG/LimSim) supports the freewayB and ExpresswayA maps, LimSim is a Long-term Interactive Multi-scenario traffic Simulator, which aims to provide a continuous simulation capability under the complex urban road network.
 
 
