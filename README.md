@@ -46,7 +46,9 @@ The dataset documentation and file format description can be found [here](https:
 
 
 
-### Segment
+### Collaboration location
+
+Collaboration location that will be hosted and distributed by a related team.Please contact the relevant team to access the data
 
 [**Expressway B (TBA) <sub><sup><br />Weaving Segment<br /> Asia <br />In associate with<br /> Southeast University<br/> Renteng Yuan/Dr.QiaoJun Xiang</sup></sub>**](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/tree/main/asset/ExpresswayB) |  ![](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/ExpresswayB.png) 
 :-------------------------:|:-------------------------:
