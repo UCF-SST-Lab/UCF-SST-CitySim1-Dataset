@@ -103,19 +103,18 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 If you use CitySim Dataset in your research , please use the following BibTeX entry.
 
 ```BibTeX
-@misc{https://doi.org/10.48550/arxiv.2208.11036,
-  doi = {10.48550/ARXIV.2208.11036},
-  url = {https://arxiv.org/abs/2208.11036},
-  author = {Zheng, Ou and Abdel-Aty, Mohamed and Yue, Lishengsa and Abdelraouf, Amr and Wang, Zijin and Mahmoud, Nada},  
-  title = {CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety Oriented Research and Digital Twins},
-  publisher = {arXiv},
-  year = {2022}
-}
-@article{zhengdevelopment,
-  title={DEVELOPMENT, VALIDATION, AND INTEGRATION OF AI-DRIVEN COMPUTER VISION AND DIGITAL-TWIN SYSTEMS FOR TRAFFIC SAFETY DIAGNOSTICS},
-  author={ZHENG, OU}
+@article{zhang2023citysim,
+    author = {Ou Zheng and Mohamed Abdel-Aty and Lishengsa Yue and Amr Abdelraouf and Zijin Wang and Nada Mahmoud},
+    title ={CitySim: A Drone-Based Vehicle Trajectory Dataset for Safety-Oriented Research and Digital Twins},
+    journal = {Transportation Research Record},
+    year = {2023},
+    doi = {10.1177/03611981231185768},
 }
 
+@article{zhengdevelopment,
+    title={DEVELOPMENT, VALIDATION, AND INTEGRATION OF AI-DRIVEN COMPUTER VISION AND DIGITAL-TWIN SYSTEMS FOR TRAFFIC SAFETY DIAGNOSTICS},
+    author={ZHENG, OU}
+}
 ```
 
 ## Projects
