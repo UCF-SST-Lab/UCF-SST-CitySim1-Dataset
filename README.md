@@ -78,11 +78,6 @@ VR Driving Simulation      |Autonomous Vehicle Simulation   |   Sensor Simulatio
 ## Data Extraction Tool
 [Automated Roadway Conflicts Identify System (A.R.C.I.S)](https://github.com/ozheng1993/A-R-C-I-S)
 
-##  Project Team
-
-<img src="https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/projectTeam.png" width="100%">
-
-
 ### Active Contributor
 
 [Ou Zheng](https://scholar.google.com/citations?user=605WeG4AAAAJ&hl=en) |
