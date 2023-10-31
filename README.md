@@ -12,7 +12,7 @@ The development of safety-oriented research ideas and applications requires fine
 
  Full Data Access
 :-------------------------:
-The data are not publicly available due to privacy.<br /> Please send us a request form ([Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) ) to this email: CitySim1@hotmail.com 
+The data are not publicly available due to privacy.<br /> Please send us a request form ([Download form here](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset/blob/main/asset/MainPage/Data_Request_Form.pdf) ) to this email: citysim.ucfsst@gmail.com
 
 ## What's New
 
